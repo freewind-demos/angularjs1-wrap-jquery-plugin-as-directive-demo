@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "angular": "^1.7.3"
+    "angular": "^1.7.3",
+    "jquery": "^3.3.1",
+    "tips.js": "^1.2.0"
   }
 }

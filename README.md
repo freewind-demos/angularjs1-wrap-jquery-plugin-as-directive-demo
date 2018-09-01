@@ -1,7 +1,7 @@
-AngularJS1 Directive Link Demo
-==============================
+AngularJS1 Directive Wrap JQuery Plugin as Directive Demo
+=========================================================
 
-Do some DOM operations in `link` function of directive.
+把一个JQuery Plugin包装成AngularJS的directive，其中JQuery Plugin使用[tips.js](https://github.com/skyout/tips.js)为例。
 
 ```
 npm install
